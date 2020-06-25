@@ -25,7 +25,7 @@ if __name__ == "__main__":
         raise RuntimeError("seaborn requires python >= 3.6.")
 
     setup(
-        name='simr_image_utils',
+        name='simr-utils',
         author="Chris Wood",
         author_email="cjw@stowers.org",
         description=DESCRIPTION,
