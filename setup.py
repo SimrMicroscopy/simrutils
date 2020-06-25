@@ -4,7 +4,7 @@ import setuptools
 DESCRIPTION = "common utilities"
 
 URL = 'https://github.com/SimrMicroscopy/simrutils'
-LISENSE = 'MIT'
+LICENSE = 'MIT'
 DOWNLOAD_URL = 'https://github.com/SimrMicroscopy/simrutils'
 VERSION = '0.0.1'
 PYTHON_REQUIRES = ">=3.6"
