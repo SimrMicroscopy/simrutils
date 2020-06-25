@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: simr-utils
+Version: 0.0.0
+Summary: common utilities
+Home-page: https://github.com/SimrMicroscopy/simrutils
+Author: Chris Wood
+Author-email: cjw@stowers.org
+License: MIT
+Download-URL: https://github.com/SimrMicroscopy/simrutils
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
