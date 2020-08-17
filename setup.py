@@ -14,7 +14,8 @@ INSTALL_REQUIRES = [
     'scipy>=1.0',
     'pandas>=0.23',
     'matplotlib>=2.2',
-    'nd2reader>=3.2.3'
+    'nd2reader>=3.2.3',
+    'tifffile>=2020.7.24',
 ]
 
 
