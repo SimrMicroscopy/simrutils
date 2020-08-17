@@ -2,6 +2,8 @@ README.md
 setup.py
 simr_imageutils/__init__.py
 simr_imageutils/normalize.py
+simr_io/__init__.py
+simr_io/nd2read.py
 simr_utils.egg-info/PKG-INFO
 simr_utils.egg-info/SOURCES.txt
 simr_utils.egg-info/dependency_links.txt
