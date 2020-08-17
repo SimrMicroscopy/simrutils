@@ -7,3 +7,5 @@ def normalize(data, axis=None, min=0, max=1):
 
         normed = (data - dmin)/(dmax - dmin)
         return normed
+
+
